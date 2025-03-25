@@ -12,6 +12,7 @@ export const App: React.FC = () => {
           <p className='text-sm font-bold text-gray-500 mt-4'>React TS + Vite + Tailwind</p>
           <p className='text-sm font-bold text-gray-300 mt-2'>
             Template by <a href='https://github.com/marcoslafoz'>@marcoslafoz</a>
+            
           </p>
           <ComponentePrueba />
         </div>
